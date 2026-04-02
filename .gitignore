@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.gemini/
+.ipynb_checkpoints/
+*.xlsx
+# (Optional) Decide whether to include the Excel file or not. 
+# Usually, for data projects, it's included if it's the data source, unless it's too big.
+# I'll leave it out for now to ensure clean pushes.
+# Actually, the user might want it to be a complete project.
+# I'll comment out the .xlsx if it's required for the app to run.
