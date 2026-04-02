@@ -1,0 +1,7 @@
+streamlit
+dash
+dash-bootstrap-components
+pandas
+plotly
+openpyxl
+numpy
